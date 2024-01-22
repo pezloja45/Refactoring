@@ -18,8 +18,9 @@ Si se elige la opción 2, se debe mostrar un listado por número de dorsal.
 La opción 3 mostrará un listado ordenado por la marca del 2002, de mayor a menor.
 Tras procesar cada opción, se debe mostrar de nuevo el menú inicial, hasta que se
 seleccione la opción 4, que terminará el programa.
-# Ejercicio 11
-Crea un programa en java que calcula tu peso de la tierra en los diferentes planetas del Sistema Solar
+# Ejercicio 11 Refactorizado
+Crea un programa en java que calcula tu peso de la tierra en los diferentes planetas del Sistema Solar.
+Se mejora el formato del codigo,se añaden metodos para la funcionalidad y se añaden constantes.
 # Ejercicio 13
 Leer una serie de n enteros que se almacenarán en una tabla que hay que ordenar
 y mostrar. Leer otra serie de m enteros, que también se guardarán en una tabla y se
